@@ -1,4 +1,4 @@
-# Threat Intelligence Platform: TheHive, Cortex, and MISP Docker Deployment 🚨🔍
+# Threat Intelligence Platform: TheHive, Cortex, and MISP Docker Deployment 🚨🔍 
 
 ## 🌐 Project Overview
 
