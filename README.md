@@ -7,7 +7,7 @@ This project demonstrates a comprehensive threat intelligence and security analy
 - Cortex
 - MISP (Malware Information Sharing Platform)
 
-### 🛡️ Key Components
+### 🛡️ Key Components    
 - **TheHive**: Security incident management and response platform
 - **Cortex**: Powerful observable analysis and active response engine
 - **MISP**: Threat intelligence sharing and collaborative platform
